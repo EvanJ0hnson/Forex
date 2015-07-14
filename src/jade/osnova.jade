@@ -1,0 +1,9 @@
+extends templates/_tpl.jade
+
+block vars
+  - var page_prev = "index.html"
+  - var page_next = "marg_torg.php"
+
+block article
+  .article
+    include:markdown articles/osnova.md
