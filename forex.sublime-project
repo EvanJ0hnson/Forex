@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+      "name": "root",
+      "folder_exclude_patterns": ["node_modules", "src", "www"],
+      "file_exclude_patterns": ["*.sublime-project"],
+			"path": "."
+		},{
+      "name": "src",
+      "path": "./src/"
+    }
+    ,{
+      "name": "www",
+      "path": "./www/"
+    }
+	]
+}
