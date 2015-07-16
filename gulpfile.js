@@ -18,12 +18,12 @@ gulp.task('browser-sync', function() {
   });
 });
 
-gulp.task('stylint', function() {
-  gulp.src('src/styl/partials/main.styl')
-    .pipe(stylint({
-      config: '.stylintrc'
-    }))
-});
+// gulp.task('stylint', function() {
+//   gulp.src('src/styl/partials/main.styl')
+//     .pipe(stylint({
+//       config: '.stylintrc'
+//     }))
+// });
 
 gulp.task('stylus', function() {
   gulp.src('src/styl/style.styl')
