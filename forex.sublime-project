@@ -10,9 +10,5 @@
       "name": "src",
       "path": "./src/"
     }
-    ,{
-      "name": "www",
-      "path": "./www/"
-    }
 	]
 }

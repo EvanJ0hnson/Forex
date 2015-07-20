@@ -38,9 +38,7 @@
         <p>Пробой линии тренда индикатора OBV является предвестником важного сигнала — пробоя линии тренда на графике цен, который происходит значительно позже и сигнализирует о возможном развороте восходящего тренда (см. рис.).</p>
         <?php $page_prev='Force.php' ; $page_next='pivotnye_tochki.php' ; include 'site__article-pagination.php'; ?>
       </div>
-      <!--End Main text-->
     </div>
-    <!--End conteyner2-->
     <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
