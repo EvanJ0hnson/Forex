@@ -34,10 +34,8 @@
         <p>&nbsp;</p>
         <p>&nbsp;</p>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

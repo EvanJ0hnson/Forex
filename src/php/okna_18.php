@@ -67,8 +67,8 @@
         <p>Если объем торговли в дни появления белых (черных) свечей в бычьей (медвежьей) модели «три метода» выше объема торговли в дни появления маленьких черных (белых) свечей, то значимость этой модели возрастает.</p>
         <?php $page_prev='dojy_17.php' ; $page_next='pravilo_19.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

@@ -70,9 +70,7 @@
         </div>
         <p>На графике волны пронумерованы и указаны стрелками, а также показан один из возможных вариантов расстановки «стопов» (защитных приостановок).</p>
         <?php $page_prev='urovni_fibonachi.php' ; $page_next='fa.php' ; include 'site__article-pagination.php'; ?>
-        <!--End Main text-->
       </div>
-      <!--End conteyner2-->
       <div class="footer">© 2010 Copyright</div>
     </div>
 </body>

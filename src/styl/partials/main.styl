@@ -1,10 +1,11 @@
-$clrBodyBackground = #fafafa
+$clrBodyBackground = #F5F5F5
 $clrBlueMain = #005689
 $clrBlueHighlight = #367097
 $clrGreenDark = #0d3d00
 $clrMainText = #333
 $clrTopNavItem = #4c4c4c
 $clrLeftNavBorder = #ccc
+$clrLeftNavDelimiter = #ff6803
 
 body,
 ul
@@ -26,7 +27,7 @@ body
 .header
   padding-top: 1rem
   color: $clrGreenDark
-  border-bottom: .075rem solid $clrBlueHighlight
+  border-bottom: .15rem solid $clrBlueHighlight
 
 .header__title
   font-size: 2rem
@@ -53,10 +54,10 @@ body
   font-family: 'Open Sans', sans-serif
   float: left
   width: 25%
-
+  
 .leftNavigation__block
   padding-bottom: .75rem
-  border-bottom: .1rem dotted $clrLeftNavBorder
+  // border-bottom: .1rem dotted $clrLeftNavBorder
 
 .leftNavigation__blockTitle
   font-size: .9rem
@@ -78,22 +79,22 @@ body
 // for Backward compatibility with styles in php
 .leftNavigation__dottedBottom
   padding-bottom: .75rem
-  border-bottom: .1rem dotted $clrLeftNavBorder
-
-.articleWrapper
-  margin-left: 26%
+  // border-bottom: .1rem dotted $clrLeftNavBorder
 
 .title__description
   font-size: 1.5rem
   font-weight: bold
-  display: inline-block
-  padding-right: 10rem
-  vertical-align: top
   color: $clrBlueMain
+  
+  padding-top: 1rem
 
-.title__money-icons
-  margin-top: 1rem
-  margin-left: -.75rem
+.articleWrapper
+  margin-left: 26%
+  
+  padding-left: 1%
+  margin-bottom: 5%
+  
+  border-left: .15rem solid $clrLeftNavDelimiter
 
 .article
   font-size: 1.1rem
@@ -124,9 +125,11 @@ body
     text-align: justify
 
   & p:first-child
+    font-family: 'Open Sans', sans-serif
     font-size: .85rem
     font-style: italic
     text-align: right
+    margin-left: 65%
 
   & p:first-child:before
     content: '«'
@@ -190,6 +193,9 @@ body
 
 .pagination__page-next:after
   content: '»'
+  
+.isHidden
+  display: none
 
 .footer
   font: .75rem

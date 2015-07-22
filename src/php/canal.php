@@ -38,10 +38,8 @@
         </div>
         <?php $page_prev='trend.php' ; $page_next='SR_4.php' ; include 'site__article-pagination.php'; ?>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright</div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright</div>
   </div>
 </body>
 

@@ -73,8 +73,8 @@
         </div>
         <?php $page_prev='ss_7.php' ; $page_next='ds_9.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

@@ -1,15 +1,11 @@
 extends templates/_tpl.jade
 
 block vars
-  //- - var epigraph = "Деньги – это праздник, который всегда с тобой";
   - var page_prev = ""
   - var page_next = "osnova.html"
 
 block article
   .title
     p.title__description Online-учебник<br> для начинающих
-    //- img.title__money-icons(src="img/Round_Dollar_coin_money_128.png", alt="Dollar")
-    //- img.title__money-icons(src="img/Round_Euro_Button_128.png", alt="Euro")
-    //- img.title__money-icons(src="img/Round_Pound_Button_128.png", alt="Pound")
   .article
     include:markdown articles/index.md

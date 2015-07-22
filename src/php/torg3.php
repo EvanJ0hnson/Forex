@@ -31,10 +31,8 @@
         <?php $page_prev='torg2.php' ; $page_next='torg4.php' ; include 'site__article-pagination.php'; ?>
         </p>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

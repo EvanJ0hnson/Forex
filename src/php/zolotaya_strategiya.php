@@ -23,11 +23,14 @@
           <br>
           <b>Золотая стратегия: помни золотое правило.</b></p>
         <p>Выводы делайте сами.
-          <br> Удачи Вам!</p>
-        <?php $nextIsHidden='isHidden' ; $page_prev='torg5.php' ; $page_next='' ; include 'site__article-pagination.php'; ?>
-        <!--End Main text-->
+          <br>Удачи Вам!</p>
+        <?php 
+          $nextIsHidden='isHidden';
+          $page_prev='torg5.php';
+          $page_next='' ; 
+          include 'site__article-pagination.php';
+        ?>
       </div>
-      <!--End conteyner2-->
       <div class="footer">© 2010 Copyright</div>
     </div>
 </body>

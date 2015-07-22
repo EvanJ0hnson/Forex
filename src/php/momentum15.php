@@ -47,10 +47,8 @@
         <p>Индикатор Momentum образует впадину и начинает расти — сигнал к покупке.</p>
           <?php $page_prev='sto_11.php' ; $page_next='Force.php' ; include 'site__article-pagination.php'; ?>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

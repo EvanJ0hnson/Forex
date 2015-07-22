@@ -58,8 +58,8 @@
         </div>
         <?php $page_prev='momentum15.php' ; $page_next='obv16.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

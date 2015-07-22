@@ -112,8 +112,8 @@
         <p>Комбинация объема и свечей может дать дополнительную важную и полезную для трейдера информацию, на основании которой могут быть приняты решения о входе в рынок, либо, наоборот, о закрытии открытых позиций, т.е. о выходе из него.</p>
         <?php $page_prev='pravilo_19.php' ; $page_next='posled_chisel_fibonachi.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright</div>
     </div>
-    <div class="footer">© 2010 Copyright</div>
   </div>
 </body>
 

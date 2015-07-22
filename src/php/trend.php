@@ -67,10 +67,8 @@
         <p>Объем сделок <em>(Volumes)</em> &mdash; это индикатор, который программное приложение Metatrader по Вашему желанию в готовом виде размещает ниже ценового графика. </p>
         <?php $page_prev='marg_torg.php' ; $page_next='canal.php' ; include 'site__article-pagination.php'; ?>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

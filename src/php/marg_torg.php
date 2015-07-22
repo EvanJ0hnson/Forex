@@ -44,9 +44,7 @@
         <p>Как вы думаете, чем закончится это состязание?</p>
         <p>Правильно, я тоже так думаю.</p>
         <?php $page_prev='osnova.html' ; $page_next='trend.php' ; include 'site__article-pagination.php'; ?>
-        <!--End Main text-->
       </div>
-      <!--End conteyner2-->
       <div class="footer">© 2010 Copyright</div>
     </div>
 </body>

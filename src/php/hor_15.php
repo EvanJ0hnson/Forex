@@ -55,8 +55,8 @@
         <em>Вывод:</em>при появлении йорикири лучше дождаться закрытия следующей за ним свечи, а потом уже делать окончательные выводы.</p>
         <?php $page_prev='zvezda_14.php' ; $page_next='dojy_17.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <div class="footer">© 2010 Copyright </div>
   </div>
   <table </body>
 

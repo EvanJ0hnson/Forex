@@ -68,10 +68,8 @@
           </div>
           <?php $page_prev='prb.php' ; $page_next='sto_11.php' ; include 'site__article-pagination.php'; ?>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

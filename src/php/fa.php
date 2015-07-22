@@ -127,8 +127,8 @@
         <p>Профессиональные трейдеры используют данные как технического, так и фундаментального анализа.</p>
         <?php $page_prev='zakon_voln_elliota.php' ; $page_next='sessii.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

@@ -42,8 +42,8 @@
         <p>Тем более сделку необходимо немедленно закрыть, если скользящие средние пересекаются.</p>
         <?php $page_prev='torg3.php' ; $page_next='torg5.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

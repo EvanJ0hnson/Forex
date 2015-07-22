@@ -64,8 +64,8 @@
         <p>Тем более сделку необходимо немедленно закрыть, как только СС13 пересекает СС21 снизу вверх.</p>
         <?php $page_prev='torg4.php' ; $page_next='zolotaya_strategiya.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <div class="footer">© 2010 Copyright </div>
   </div>
   <table </body>
 

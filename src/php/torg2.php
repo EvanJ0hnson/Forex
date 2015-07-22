@@ -59,9 +59,9 @@
         <p>Открытую позицию удерживаем до тех пор, пока Parabolic sar не изменит свое положение относительно цен (см. рис.) на дневном или недельном графике. Выбор за трейдером.</p>
         <?php $page_prev='torg1.php' ; $page_next='torg3.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <div class="footer">© 2010 Copyright </div>
   </div>
-  <table </body>
+</body>
 
 </html>

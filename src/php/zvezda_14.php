@@ -75,8 +75,8 @@
           <br>Чтобы убедиться в бычьем характере перевернутого молота, нужно дождаться подтверждающего сигнала во время следующей торговой сессии.</p>
         <?php $page_prev='jmod_13.php' ; $page_next='hor_15.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 </html>

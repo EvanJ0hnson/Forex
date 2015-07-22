@@ -77,10 +77,8 @@
         <p>Две модели &quot;медвежьего поглощения&quot; сигнализируют о том, что уровень R пробить вряд ли удастся. А это значит, что ценовой график, протестировав линию тренда ЛТ, скорее всего устремится вниз.</p>
         <?php $page_prev='okna_18.php' ; $page_next='si_20.php' ; include 'site__article-pagination.php'; ?>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright</div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

@@ -42,5 +42,5 @@
 		<li><a class="leftNavigation__item" href="torg3.php">Торговая система №3</a></li>
 		<li><a class="leftNavigation__item" href="torg4.php">Торговая система №4</a></li>
 		<li><a class="leftNavigation__item" href="torg5.php">Торговая система №5</a></li>
-		<li class="leftNavigation__dottedBottom"><a class="leftNavigation__item" href="zolotaya_strategiya.php">Золотая стратегия</a></li>
+		<li class="leftNavigation__dottedBottom"><a class="leftNavigation__item" href="zolotaya_strategiya.php">Best</a></li>
 </ul><!--End leftNavigation-->

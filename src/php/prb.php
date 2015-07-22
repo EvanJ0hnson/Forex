@@ -68,10 +68,8 @@
           <br /> Рекомендуется использовать индикатор на таймфреймах больше H1.</p>
         <?php $page_prev='ds_9.php' ; $page_next='ind_10.php' ; include 'site__article-pagination.php'; ?>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

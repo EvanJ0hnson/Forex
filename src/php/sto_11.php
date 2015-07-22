@@ -72,10 +72,8 @@
        </p>
         <?php $page_prev='ind_10.php' ; $page_next='momentum15.php' ; include 'site__article-pagination.php'; ?>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

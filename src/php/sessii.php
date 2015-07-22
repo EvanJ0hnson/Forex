@@ -48,8 +48,8 @@
         <p>Наиболее интенсивная торговля и, соответственно, наиболее сильные движения рынка происходят в интервале от 16:00 до 20:00 по московскому времени. Это тот период времени, когда Европейская сессия еще не закрылась, а Американская уже открылась.</p>
         <?php $page_prev='fa.php' ; $page_next='torg.php' ; include 'site__article-pagination.php'; ?>
       </div>
+      <div class="footer">© 2010 Copyright</div>
     </div>
-    <div class="footer">© 2010 Copyright</div>
   </div>
 </body>
 

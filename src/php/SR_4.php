@@ -61,10 +61,8 @@
         <p>&nbsp;</p>
         <?php $page_prev='canal.php' ; $page_next='Gra_model_5.php' ; include 'site__article-pagination.php'; ?>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 

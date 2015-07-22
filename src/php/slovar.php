@@ -75,10 +75,8 @@
         <p><strong>Цена открытия (Open)</strong> &mdash; цена первой сделки данного периода.</p>
         <p>&nbsp;</p>
       </div>
-      <!--End Main text-->
+      <div class="footer">© 2010 Copyright </div>
     </div>
-    <!--End conteyner2-->
-    <div class="footer">© 2010 Copyright </div>
   </div>
 </body>
 
